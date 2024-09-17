@@ -1,0 +1,327 @@
+.Blog {
+
+    margin-left: 700px;
+
+}
+
+.Project {
+    margin-left: 15px;
+
+}
+
+.About {
+    margin-left: 15px;
+
+}
+
+.Newspaper {
+    margin-left: 15px;
+
+}
+
+
+
+
+.title {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 900;
+    line-height: 0cqb;
+    font-size: 150px;
+}
+
+.ones1 {
+    color: blue;
+}
+
+.App {
+
+    margin-left: 65px;
+}
+
+
+
+.design {
+    margin-left: 15px;
+    color: blueviolet;
+    background-color: pink;
+    border-radius: 25%;
+}
+
+.Research {
+    margin-left: 15px;
+    color: rgb(117, 117, 204);
+    background-color: blue;
+    border-radius: 25%;
+}
+
+.Pres {
+    margin-left: 15px;
+    color: rgb(243, 130, 167);
+    background-color: rgb(236, 43, 43);
+    border-radius: 25%;
+}
+
+.img2 {
+    margin-left: 40px;
+}
+
+.ones2 {
+    color: blue;
+}
+
+
+.all {
+
+    margin-bottom: 140px;
+}
+
+.design1 {
+    color: aqua;
+    background-color: rgb(164, 238, 213);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Research1 {
+    color: rgb(238, 5, 5);
+    background-color: rgb(196, 88, 88);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.img3 {
+    margin-left: 1px;
+}
+
+.ones3 {
+    color: blue;
+    /* margin-bottom: 200px; */
+}
+
+.design2 {
+    color: aqua;
+    background-color: rgb(164, 238, 213);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Research2 {
+    color: rgb(238, 5, 5);
+    background-color: rgb(196, 88, 88);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.img4 {
+    margin-top: 50px;
+}
+
+.ones4 {
+    color: blue;
+
+}
+
+.design3 {
+    color: green;
+    background-color: rgb(164, 238, 213);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Research3 {
+    color: rgb(238, 5, 5);
+    background-color: rgb(196, 88, 88);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.App1 {
+
+    margin-left: 60px;
+}
+
+.img5 {
+    margin-top: 10px;
+}
+
+.ones5 {
+    color: blue;
+}
+
+.leadership4 {
+    color: rgb(151, 18, 240);
+    background-color: rgb(196, 133, 221);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.management4 {
+    color: rgb(60, 8, 180);
+    background-color: rgb(167, 146, 190);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+/* .App2 {
+    margin-left: 1px;
+} */
+
+.img6 {
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+.ones6 {
+    color: blue;
+    margin-top: 1px;
+}
+
+.App4 {
+    margin-left: 5px;
+}
+
+.td {
+    margin-top: 10px;
+}
+
+.Project5 {
+    color: rgb(7, 212, 41);
+    background-color: rgb(93, 226, 226);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Research5 {
+    color: rgb(60, 8, 180);
+    background-color: rgb(167, 146, 190);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.Framework5 {
+    color: orangered;
+    background-color: rgb(243, 162, 133);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.ones7 {
+    color: blue;
+}
+
+.img9 {
+    margin-bottom: 10px;
+}
+
+.Project6 {
+    color: rgb(7, 212, 41);
+    background-color: rgb(93, 226, 226);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Research6 {
+    color: rgb(60, 8, 180);
+    background-color: rgb(167, 146, 190);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.ones8 {
+    color: blue;
+}
+
+.td1 {
+    margin-top: 20px;
+}
+
+.Project7 {
+    color: rgb(218, 40, 209);
+    background-color: rgb(93, 226, 226);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Research7 {
+    color: rgb(60, 8, 180);
+    background-color: rgb(167, 146, 190);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.ones9 {
+    color: blue;
+}
+
+.Software8 {
+    color: rgb(7, 212, 41);
+    background-color: rgb(93, 226, 226);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.Tools8,
+.SaaS8 {
+    color: orangered;
+    background-color: rgb(243, 162, 133);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.ones10 {
+    color: blue;
+}
+
+.Podcasts9 {
+    color: rgb(218, 40, 209);
+    background-color: rgb(93, 226, 226);
+    border-radius: 25%;
+    margin-left: 20px;
+
+}
+
+.Customer9 {
+    color: rgb(60, 8, 180);
+    background-color: rgb(167, 146, 190);
+    border-radius: 25%;
+    margin-left: 20px;
+}
+
+.OS1 {
+    margin-left: 320px;
+    background-color: plum;
+    margin-right: 20px;
+}
+
+.yes1,
+.yes2,
+.yes3,
+.yes4,
+.yes5,
+.yes6,
+.yes7 {
+    margin-right: 20px;
+}
+
+.OS2 {
+    margin-left: 400px;
+}
+
+.on {
+    margin-left: 15px;
+}
+
+.on1,
+.on2 {
+    margin-left: 15px;
+}
